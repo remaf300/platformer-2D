@@ -4,45 +4,21 @@ A little 2D platformer inspired by Rayman Legends and classic 2D Mario games.
 ---
 
 ## The Mechanics
+In this game, you can move in different ways:
 
 ### 1. Base Mechanics
-In this game, you can move in different ways:
-- **Jump:** Standard jump.
+| **Jump** | **Double Jump** | **Triple Jump** |
+| :---: | :---: |
+| <img src="Assets/Images/jump.gif" width="300"> | <img src="Assets/Images/double_jump.gif" width="300"> | <img src="Assets/Images/triple_jump.gif" width="300"> |
 
-<img src="Assets/Images/jump.gif" width="300">
-
-- **Double Jump:** Jump a second time in mid-air (slightly higher than the normal jump).
-
-<img src="Assets/Images/double_jump.gif" width="300">
-
-- **Triple Jump:** Jump three times in a row (higher than the previous jumps).
-
-<img src="Assets/Images/triple_jump.gif" width="300">
-
-- **Backflip:** Crouch and jump (reaches the same height as the triple jump).
-
-<img src="Assets/Images/backflip.gif" width="300">
-
-- **Crouch:** Standard crouch.
-
-<img src="Assets/Images/crouch.gif" width="300">
-
-- **Slide:** Crouch while walking to slide across platforms.
-
-<img src="Assets/Images/slide.gif" width="300">
-
-- **Hit:** Hit and break glass objects.
-
-<img src="Assets/Images/hit.gif" width="300">
+| **Crouch** | **Slide** | **Backflip** |
+| :---: | :---: |
+| <img src="Assets/Images/crouch.gif" width="300"> | <img src="Assets/Images/slide.gif" width="300"> | <img src="Assets/Images/backflip.gif" width="300"> |
 
 ### 2. Cool Mechanics
-- **Grapple:**
-
-<img src="Assets/Images/grapple.gif" width="300">
-
-- **Zipline:**
-
-<img src="Assets/Images/zipline.gif" width="300">
+| **Hit** | **Grapple** | **Zipline** |
+| :---: | :---: |
+| <img src="Assets/Images/hit.gif" width="300"> | <img src="Assets/Images/grapple.gif" width="300"> | <img src="Assets/Images/zipline.gif" width="300"> |
 
 ---
 
