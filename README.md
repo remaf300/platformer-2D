@@ -35,9 +35,7 @@ Inspired by the musical levels in *Rayman Legends*. You must run through the lev
 ---
 
 ## Watch the Video
-You can watch a devlog/video I made about it (in French):
-
-[<img width="400" alt="Platformer2D" src="https://github.com/user-attachments/assets/cd6ff735-d4d1-4a0e-a0d4-bb79ffdf8642" />](https://www.youtube.com/watch?v=fclpj6KCyAs)
+You can watch a [`devlog/video`](https://www.youtube.com/watch?v=fclpj6KCyAs) I made about it (in French):
 
 ---
 
