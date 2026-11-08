@@ -1,8 +1,6 @@
 # Cokry (Oct 20, 2023)
 A little 2D platformer inspired by Rayman Legends and classic 2D Mario games.
 
----
-
 ## The Mechanics
 In this game, you can move in different ways:
 
@@ -20,10 +18,7 @@ In this game, you can move in different ways:
 | :---: | :---: | :---: |
 | <img src="Assets/Images/hit.gif" width="300"> | <img src="Assets/Images/grapple.gif" width="300"> | <img src="Assets/Images/zipline.gif" width="300"> |
 
----
-
 ## Game Structure
-
 ### 1. Levels
 Each level introduces a new mechanic (hit, grapple, zipline) that becomes essential for the final stage (the music level). There are four levels in total, each containing a hidden collectible coin. Collecting all four coins unlocks the secret final level.
 
@@ -32,12 +27,8 @@ Inspired by the musical levels in *Rayman Legends*. You must run through the lev
 
 <img src="Assets/Images/musical_level.gif" width="300">
 
----
-
 ## Watch the Video
 You can watch a [`devlog/video`](https://www.youtube.com/watch?v=fclpj6KCyAs) I made about it (in French):
-
----
 
 ## Play
 You can play the game directly on [`itch.io`](https://remaf300.itch.io/cokry).
