@@ -8,16 +8,16 @@ In this game, you can move in different ways:
 
 ### 1. Base Mechanics
 | **Jump** | **Double Jump** | **Triple Jump** |
-| :---: | :---: |
+| :---: | :---: | :---: |
 | <img src="Assets/Images/jump.gif" width="300"> | <img src="Assets/Images/double_jump.gif" width="300"> | <img src="Assets/Images/triple_jump.gif" width="300"> |
 
 | **Crouch** | **Slide** | **Backflip** |
-| :---: | :---: |
+| :---: | :---: | :---: |
 | <img src="Assets/Images/crouch.gif" width="300"> | <img src="Assets/Images/slide.gif" width="300"> | <img src="Assets/Images/backflip.gif" width="300"> |
 
 ### 2. Cool Mechanics
 | **Hit** | **Grapple** | **Zipline** |
-| :---: | :---: |
+| :---: | :---: | :---: |
 | <img src="Assets/Images/hit.gif" width="300"> | <img src="Assets/Images/grapple.gif" width="300"> | <img src="Assets/Images/zipline.gif" width="300"> |
 
 ---
