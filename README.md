@@ -36,8 +36,11 @@ In this game, you can move in different ways.
 
 ### 2. Cool mechanics
 * **grapple**:
+  
 <img src="Assets/Images/grapple.gif" width="300">
-* **zipline**: 
+
+* **zipline**:
+  
 <img src="Assets/Images/zipline.gif" width="300">
 
 ---
@@ -48,7 +51,11 @@ Each level teach you a new mechanic (hit, grapple, zipline) that will be useful 
 
 ### 2. Music Level
 I made a level inspired by the musical levels in Rayman Legends. In fact, you need to run through the level and your jumps are timed with the music.
-[Mettre un GIF]
+
+<img src="Assets/Images/musical_level.gif" width="300">
+
+
+---
 
 You can watch a video I made about it (in French):
 
